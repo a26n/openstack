@@ -8,7 +8,7 @@ This tutorial using **Ussuri** release version on ubuntu 18.04 LTS
 ### Prerequisites
 
 - 3 node (1 controller + 2 compute)
-- Ubuntu 18.04 LTS installed on each node
+- Ubuntu 20.04 LTS installed on each node
 - 2 interfaces on each node (mgmt network and external network)
 - Internet access on both network
 
